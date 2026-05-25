@@ -1,5 +1,5 @@
 # GPTQ Quantization Optimization (LG AI Hackathon)
-- <img width="1493" height="70" alt="image" src="https://github.com/user-attachments/assets/9e73bcd1-05c2-4b28-a554-645f79aa28fa" />
+<img width="1493" height="70" alt="image" src="https://github.com/user-attachments/assets/9e73bcd1-05c2-4b28-a554-645f79aa28fa" />
 
 이 저장소는 **LG AI Hackathon (DACON)** 대회에서 `LGAI-EXAONE/EXAONE-4.0-1.2B` 모델의 성능(PerfNorm)과 추론 속도(SpeedNorm)를 극대화하기 위해 다양한 **GPTQ 양자화(Quantization)** 최적화 기법을 실험하고 적용한 코드들을 포함하고 있습니다. 최후의 목표로 0.64 이상 달성(PerfNorm 최소화 방어 + SpeedNorm 상승)을 목표로 하고 있습니다.
 
