@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>LG Aimers 8기</b> · 단독 참가 · GPTQ 양자화 단독 실험
+  <b>LG Aimers 8기</b> · 3인 팀 참가 · GPTQ 양자화 단독 실험
 </p>
 
 LG AI 연구원이 주관하고 DACON에서 진행된 해커톤입니다. `EXAONE-4.0-1.2B` 모델을 vLLM 0.14.1 + L4 GPU 환경에서 양자화해서 성능(PerfNorm)과 속도(SpeedNorm)를 동시에 올리는 게 과제였습니다.
