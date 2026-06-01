@@ -4,6 +4,19 @@
   <img width="100%" alt="LG AI 해커톤" src="https://github.com/user-attachments/assets/9e73bcd1-05c2-4b28-a554-645f79aa28fa" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/vLLM-0.14.1-FF6B6B?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/llmcompressor-GPTQ-4B32C3?style=flat-square" alt="llmcompressor" />
+  <img src="https://img.shields.io/badge/Quantization-W8A8-00875A?style=flat-square" alt="W8A8" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DACON-628팀_중_71등-2F80ED?style=flat-square" alt="DACON" />
+</p>
+
+<p align="center">
+  <b>LG Aimers 8기</b> · 단독 참가 · GPTQ 양자화 단독 실험
+</p>
+
 LG AI 연구원이 주관하고 DACON에서 진행된 해커톤입니다. `EXAONE-4.0-1.2B` 모델을 vLLM 0.14.1 + L4 GPU 환경에서 양자화해서 성능(PerfNorm)과 속도(SpeedNorm)를 동시에 올리는 게 과제였습니다.
 
 평가 공식:
